@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.track {
+  border: 2px solid gray;
+}
+.border-box {
+  width: 80%;
+}
+.box {
+  width: 200px;
+  height: 150px;
+  background-color: lightblue;
+  border: 2px solid #000;
+  padding: 10px;
+  margin: 20px;
+}
+.circle-box {
+  width: 150px; /* Set equal width and height for a circle */
+  height: 150px;
+  background-color: lightblue;
+  border: 2px solid #000;
+  padding: 10px;
+  margin: 20px;
+  border-radius: 50%; /* Makes the box circular */
+  display: flex; /* Optional, to center content inside */
+  justify-content: center; /* Optional, to center content horizontally */
+  align-items: center;
+}
