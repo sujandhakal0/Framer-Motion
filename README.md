@@ -1,5 +1,8 @@
-# React + TypeScript + Vite
 
+https://github.com/user-attachments/assets/7acdf0c5-542b-4398-967f-6d8ad4994a00
+Uploading framer-motion-animation.mp4…
+
+# React + TypeScript + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
